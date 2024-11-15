@@ -1,0 +1,6 @@
+@EcosferaDigital_HostAddress = http://localhost:5105
+
+GET {{EcosferaDigital_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
